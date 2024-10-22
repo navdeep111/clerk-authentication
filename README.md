@@ -1,4 +1,4 @@
-# Clerk Authentication App
+#  This is a Clerk Authentication App which is easily integrate in with NextJs and database
 
 ## Usage
 
